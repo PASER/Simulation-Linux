@@ -1,0 +1,3 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "staticNetwork10" "staticNetwork10" "2" "607x337+0+52:normal"
+

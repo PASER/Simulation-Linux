@@ -1,0 +1,17 @@
+****** INSTALL ******
+1. Install OMNeT++ v4.2 (www.omnetpp.org/)
+2. Extract INETMANET and PASER into OMNeT++ Workspace
+3. Import INETMANET and PASER projects.
+   a. File->Import...->General->Existing Projects into Workspace
+   b. Browse INETMANET project. Unset "copy projects into workspace". Click on "Finish".
+   c. File->Import...->General->Existing Projects into Workspace
+   d. Browse PASER project. Unset "copy projects into workspace". Click on "Finish".
+4. Add project references to PASER project
+   a. Project->Properties->Project References
+   b. Choose INETMANET and click on "OK"
+
+****** COMPILE ******
+Project->Build All
+
+****** RUN ******
+Right Click on "omnetpp_static_validation.ini" or "omnetpp_mobile_validation.ini" -> Run as -> OMNeT++ Simulation
