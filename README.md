@@ -1,11 +1,11 @@
-Simulation
-==========
+Simulation-Linux
+================
 
-This code comprises the most relevant parts of the PASER implementation in OMNeT++ 4.2.x - Linux. The same code but with different configuration (linking OpenSSL) is provided for Windows in the master_windows branch. 
+This code comprises the most relevant parts of the PASER implementation in OMNeT++ 4.2.x - Linux. The same code but with different configuration (linking OpenSSL) is provided for Windows at https://github.com/PASER/Simulation-Windows. 
 
-The code depends on the INETMANET framework. A modified version of the official framework, with respect to statistics, using which this code is tested, is provided in the INETMANET branch. 
+The code depends on the INETMANET framework. A modified version of the official framework, with respect to statistics, using which this code is tested, is provided at https://github.com/PASER/Simulation-INETMANET. 
 
-The code assumes that the OpenSSL development files are installed on the system, e.g., the libssl-dev packet should be installed when using ubuntu.
+The code assumes that the OpenSSL development files are installed on the system, e.g., the libssl-dev package should be installed when using ubuntu.
 
 Authors: Eugen.Paul and Mohamad.Sbeiti.
 
