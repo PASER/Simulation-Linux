@@ -15,4 +15,4 @@ This implementation is free software; you can redistribute it and/or modify it u
 
 This work is part of the secure wireless mesh networks framework, which is currently under development by CNI. The source files of this implementation are going to be soon available here for download as well.
 
-A thorough documentation of this code is provided on: www.paser.info.
+A thorough documentation of this code is provided at: www.paser.info.
